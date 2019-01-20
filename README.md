@@ -14,7 +14,7 @@ draw bezier curve
 * 最终结果见：b_curve_by_3rd_lib.png
 
 （2）b_curve.py
-* 网上找到了拟合贝叶斯曲线的程序
+* 网上找到了拟合贝叶斯曲线的数学解析解程序
 * 直接用PIL绘制曲线，颜色可用RGB进行指定
 * 最终结果见：b_curve.jpg
 
